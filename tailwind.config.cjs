@@ -11,6 +11,7 @@ module.exports = {
     extend: {
       colors: {
         // add custom colors (outside of tailwind)
+        primaryBlack: "#002B2B",
       },
       spacing: {
         // add custom spacings (outside of tailwind)
